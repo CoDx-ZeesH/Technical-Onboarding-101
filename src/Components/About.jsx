@@ -24,7 +24,7 @@ const imageAltText = "";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "";
+  "I'm Mohammad Zeeshan, a tech enthusiast with a knack for leadership and a deep interest in AI/ML. My technical acumen extends to web development, demonstrating my adaptability in the tech sphere. My love for AI/ML mirrors my forward-thinking mindset and my aspiration to stay at the cutting edge of technology. My leadership qualities empower me to steer teams towards their objectives effectively. In essence, I represent a harmonious blend of leadership, technical expertise, and an insatiable thirst for knowledge.";
 
 /**
  * List of some of skills or technologies you work on, are learning,

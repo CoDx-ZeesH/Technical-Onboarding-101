@@ -29,9 +29,9 @@ const siteProps = {
   email: "zeeshanismad@gmail.com",
   gitHub: "https://github.com/CoDx-ZeesH",
   instagram: "https://www.instagram.com/__md_zeeshan__/",
-  linkedIn: "https://www.linkedin.com/in/mohammad-zeeshan-366828260",
+  linkedIn: "https://www.linkedin.com/in/mohammad-zeeshan-366828260/",
   medium: "",
-  twitter: "https://twitter.com/ItzZeemanYT?t=qWgB2hFoAUwTuggOy45DKA&s=09",
+  twitter: "https://x.com/ItzZeemanYT",
   youTube: "https://www.youtube.com/channel/UC2jXE3UMj29fXH37SVpVsDQ",
 };
 

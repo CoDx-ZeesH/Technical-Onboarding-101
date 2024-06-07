@@ -27,12 +27,12 @@ const siteProps = {
   name: "Mohammad Zeeshan",
   title: "Full stack web developer and AI/ML engineer",
   email: "zeeshanismad@gmail.com",
-  gitHub: "https://github.com/CoDx-ZeesH",
-  instagram: "https://www.instagram.com/__md_zeeshan__/",
-  linkedIn: "https://www.linkedin.com/in/mohammad-zeeshan-366828260/",
+  gitHub: "/CoDx-ZeesH",
+  instagram: "/__md_zeeshan__/",
+  linkedIn: "/mohammad-zeeshan-366828260/",
   medium: "",
-  twitter: "https://x.com/ItzZeemanYT",
-  youTube: "https://www.youtube.com/channel/UC2jXE3UMj29fXH37SVpVsDQ",
+  twitter: "/ItzZeemanYT",
+  youTube: "/channel/UC2jXE3UMj29fXH37SVpVsDQ",
 };
 
 const primaryColor = "#4E567E";

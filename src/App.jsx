@@ -31,8 +31,8 @@ const siteProps = {
   instagram: "/__md_zeeshan__/",
   linkedIn: "/mohammad-zeeshan-366828260/",
   medium: "",
-  twitter: "/ItzZeemanYT",
-  youTube: "/channel/UC2jXE3UMj29fXH37SVpVsDQ",
+  twitter: "ItzZeemanYT",
+  youTube: "hannel/UC2jXE3UMj29fXH37SVpVsDQ",
 };
 
 const primaryColor = "#4E567E";

@@ -31,11 +31,10 @@ const description =
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
   "AI/ML Engineer",
   "MLSA BETA",
   "Team Leader",
-  "Graphic design",
+  "Full Stack Developer",
 ];
 
 /**

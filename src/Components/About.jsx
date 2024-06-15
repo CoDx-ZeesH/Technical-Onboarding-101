@@ -32,10 +32,11 @@ const description =
  */
 const skillsList = [
   "AI/ML Engineer",
-  "MLSA BETA",
+  "Microsoft Learn Student Ambassador Beta",
   "Team Leader",
   "Full Stack Developer",
 ];
+
 
 /**
  * Use this to give more information about what you are passionate about,
